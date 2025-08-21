@@ -9,10 +9,10 @@
 ---
 
 ## 💡 About Me
-- 🎓 خريج حاسبات ومعلومات  
-- 💻 مبرمج ومصمم جرافيك  
-- 🚀 مؤسس Telb Advertising  
-- 🌱 بشتغل على مواقع، تطبيقات، وتصميمات إعلانية  
+- 🎓 Computer Science Graduate  
+- 💻 Software Developer & Graphic Designer  
+- 🚀 Founder of **Telb Advertising**  
+- 🌱 Building websites, apps, and creative designs  
 
 ---
 
@@ -36,8 +36,8 @@
 ---
 
 ## 📌 Projects
-- [Telb Advertising](https://www.facebook.com/profile.php?id=61569180477541&locale=ar_AR) – وكالة إعلانات  
-- [Mgleaves](https://mgleaves.com/) – موقع نباتات وأعشاب
+- [Telb Advertising](https://www.facebook.com/profile.php?id=61569180477541&locale=ar_AR) – Creative advertising agency  
+- [Mgleaves](https://mgleaves.com/) – Website for plants and herbs  
 ---
 
 ## 📫 Contact Me
