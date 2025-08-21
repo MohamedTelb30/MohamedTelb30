@@ -36,16 +36,14 @@
 ---
 
 ## 📌 Projects
-- [Telb Advertising](#) – وكالة إعلانات  
-- [Mgleaves](#) – موقع نباتات وأعشاب  
-- [Einstein Center](#) – منصة تعليمية  
-
+- [Telb Advertising](https://www.facebook.com/profile.php?id=61569180477541&locale=ar_AR) – وكالة إعلانات  
+- [Mgleaves](https://mgleaves.com/) – موقع نباتات وأعشاب
 ---
 
 ## 📫 Contact Me
-- 📧 Email: youremail@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/telb](#)  
-- 🌐 Facebook: [facebook.com/telb](#)
+- 📧 Email: Mohamed.telb.30@gmail.com 
+- 🔗 LinkedIn: [linkedin.com/in/telb](https://www.linkedin.com/in/telb/)  
+- 🌐 Facebook: [facebook.com/telb](https://www.facebook.com/mohamed.telb.211411/?locale=ar_AR)
 
 ---
 
